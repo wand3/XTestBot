@@ -44,8 +44,9 @@ Make sure you have the following installed on your machine:
 git clone https://github.com/wand3/XTest_Bot.git
 ```
 1. create a python virtual environment and activate it
-2. ```bash
-pip install -r requirements.txt
+2.
+```bash
+  pip install -r requirements.txt
 ```
 3. Run the below command to save account login and cookies user_credentials goes to data.csv and cookies goes to /cookies for each account
 ```bash
