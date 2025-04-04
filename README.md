@@ -5,6 +5,7 @@ An Automated test for X social media built using the Command Pattern of Software
 ## <a name="tech-stack">⚙️ Technologies</a>
 - Python
 - Playwright
+- BeautifulSoup4
 - Bash
 
 ## <a name="features">🔋 Features</a>
