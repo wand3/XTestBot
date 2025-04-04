@@ -9,7 +9,7 @@ An Automated test for X social media built using the Command Pattern of Software
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Interactions**: Test and make interactions such as Like, unlike, retweet, unretweet, and Comment can also be customized further.
+👉 **Interactions**: Test and make interactions such as Scroll, Like, unlike, retweet, unretweet, and Comment can also be customized further.
 
 👉 **Post**: Test and make text and image tweets or a combination of both
 
